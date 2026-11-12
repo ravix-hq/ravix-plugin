@@ -1,0 +1,14 @@
+{
+  "name": "ravix",
+  "displayName": "Ravix",
+  "version": "1.0.0",
+  "description": "Connect Cursor to Ravix (ravix.sh). Ravix runs coding agents in persistent cloud sandboxes called tracks: one branch, one machine, and one pull request per track. With this plugin your agent can list your Ravix projects, open tracks, send prompts, and wait for the results.",
+  "author": {
+    "name": "Ravi Inc"
+  },
+  "homepage": "https://ravix.sh",
+  "repository": "https://github.com/ravix-hq/ravix-plugin",
+  "license": "MIT",
+  "keywords": ["ravix", "mcp", "agents", "sandbox", "cloud", "tracks", "pull-requests"],
+  "logo": "assets/logo.png"
+}
